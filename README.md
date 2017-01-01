@@ -9,7 +9,7 @@ It has the simplest cartesian system design with solid structure by aluminum ext
 The most attractive design is SV-200 is using liner guideway for all 3 axis and Z axis is using 8mm T-type leadscrew.
 These design really improve print quality a lot.
 The hotend is also a new design with Teflon tube staight to the nozzle for no fliament jam.
-SV-200 is controlled by seperating control box which is off from the printer strucutre. This brings benfit when you need flexible space to operate your printer.
+SV-200 is controlled by seperating control box with 128x64 full graphic LCD. The control box is off from the printer strucutre. This brings benfit when you need flexible space to operate your printer.
 This great design is now open source. You are welcome to join this project and improve even more.
 
 ###General Spec
