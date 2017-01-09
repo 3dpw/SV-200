@@ -31,7 +31,7 @@ Cable 4PIN to 4PIN 100cm x4 (steppers)
 Cable 4PIN to 3PIN 100cm x2 (Endstop switch)  
 Cable 3PIN to 3PIN 100cm x1 (Endstop IR optical)  
 Bowden Hotend set x1  
-USB cable type-B to tyoe-C x1
+USB cable type-B to type-C x1
 Power adapter DC12V 5A  
 #####Mechnical
 2020 aluminum extrusion L370mm x1 (X axis)  
